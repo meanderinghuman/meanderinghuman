@@ -1,12 +1,14 @@
-[<!-- Wave banner -->
+<!-- Wave banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b3d91,55:1a5fb4,100:3d7be0&height=190&section=header&text=Siddharth%20Pal&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=ML%20%C2%B7%20LLM%20Agents%20%C2%B7%20Knowledge%20Graphs&descSize=18&descAlignY=58&animation=fadeIn" alt="Siddharth Pal" width="100%" />
 </p>
 
+<h2 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="👋" /></h2>
+
 <!-- Typing intro -->
 <p align="center">
   <a href="https://meanderinghuman.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=1A5FB4&center=true&vCenter=true&width=640&lines=Hi+%F0%9F%91%8B%2C+I'm+Siddharth;M.S.+Data+Science+%40+Virginia+Tech;Previously+Research+Intern+%40+Siemens;Building+reliable+LLM+agents+%26+knowledge+graphs;Open+to+Summer+2027+internships" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=1A5FB4&center=true&vCenter=true&width=640&lines=I'm+Siddharth+Pal;M.S.+Data+Science+%40+Virginia+Tech;Previously+Research+Intern+%40+Siemens;Building+reliable+LLM+agents+%26+knowledge+graphs;Open+to+Summer+2027+internships" alt="Typing intro" />
   </a>
 </p>
 
@@ -17,6 +19,10 @@
   <a href="https://www.linkedin.com/in/sidnp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://scholar.google.com/citations?hl=en&user=zgBiF-AAAAAJ"><img src="https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
   <a href="mailto:siddharthpal@live.com"><img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="420" alt="Developer at work" />
 </p>
 
 ---
@@ -142,9 +148,13 @@ achievements:
 
 ## 🤝 Let's connect
 
+<img align="right" width="170" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Typing cat" />
+
 > Open to **Summer 2027 internships** and research collaborations in ML, LLM agents and knowledge graphs.
 
 📬 [siddharthpal@live.com](mailto:siddharthpal@live.com) · 🌐 [meanderinghuman.github.io](https://meanderinghuman.github.io)
+
+<br clear="right" />
 
 <!-- Closing line + wave -->
 <p align="center">
@@ -153,4 +163,3 @@ achievements:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d7be0,45:1a5fb4,100:0b3d91&height=110&section=footer&animation=fadeIn" alt="" width="100%" />
 </p>
-](https://huggingface.co/datasets/Salesforce/xlam-function-calling-60k)
