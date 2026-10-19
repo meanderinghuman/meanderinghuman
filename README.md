@@ -32,7 +32,7 @@
 ```yaml
 name: Siddharth Pal
 now: M.S. Data Science @ Virginia Tech  ·  Research Assistant, HAIM Lab
-focus: LLM agents, knowledge graphs, graph ML, explainable & privacy-aware learning
+focus: LLM agents, knowledge graphs, graph ML, distributed training, explainable ML
 location: Virginia, USA 🇺🇸  (from India 🇮🇳)
 looking_for: Summer 2027 internships in ML, AI & Data Science
 
@@ -69,6 +69,8 @@ achievements:
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logoColor=white" alt="FAISS" />
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow" />
   <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black" alt="Weights & Biases" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Slurm_HPC-0B5394?style=flat-square&logoColor=white" alt="Slurm" />
 </p>
 
 ---
@@ -79,10 +81,10 @@ achievements:
 <table>
   <tr>
     <td>
-      <a href="https://github.com/Amitanand983/UltronAI">
+      <a href="https://github.com/meanderinghuman/ddp-scaling-anatomy">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=UltronAI&theme=github_dark&hide_border=true&bg_color=0d1117&disable_animations=true&description_lines_count=2" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Amitanand983&repo=UltronAI&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true&description_lines_count=2" alt="UltronAI" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ddp-scaling-anatomy&theme=github_dark&hide_border=true&bg_color=0d1117&disable_animations=true&description_lines_count=2" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ddp-scaling-anatomy&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true&description_lines_count=2" alt="DDP Scaling Anatomy" />
         </picture>
       </a>
     </td>
