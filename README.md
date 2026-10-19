@@ -31,7 +31,7 @@
 
 ```yaml
 name: Siddharth Pal
-now: M.S. Data Science @ Virginia Tech  ·  Research Assistant, Human-centric AI Lab
+now: M.S. Data Science @ Virginia Tech  ·  Research Assistant, HAIM Lab
 focus: LLM agents, knowledge graphs, graph ML, explainable & privacy-aware learning
 location: Virginia, USA 🇺🇸  (from India 🇮🇳)
 looking_for: Summer 2027 internships in ML, AI & Data Science
