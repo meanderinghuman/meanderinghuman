@@ -22,18 +22,18 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues,contribs&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues,contribs&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate stats-dark
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_rank=true&hide=issues,contribs&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues,contribs&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
           path: profile/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate top-langs
@@ -42,7 +42,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate top-langs-dark
@@ -51,7 +51,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
           path: profile/top-langs-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-storeops-copilot
@@ -60,7 +60,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=storeops-copilot&description_lines_count=2&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
           path: profile/pin-storeops-copilot.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-storeops-copilot-dark
@@ -69,7 +69,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=storeops-copilot&description_lines_count=2&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
           path: profile/pin-storeops-copilot-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-ddp-scaling-anatomy
@@ -78,7 +78,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ddp-scaling-anatomy&description_lines_count=2&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
           path: profile/pin-ddp-scaling-anatomy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-ddp-scaling-anatomy-dark
@@ -87,7 +87,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ddp-scaling-anatomy&description_lines_count=2&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
           path: profile/pin-ddp-scaling-anatomy-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-ClinSynapse
@@ -96,7 +96,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ClinSynapse&description_lines_count=2&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
           path: profile/pin-ClinSynapse.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-ClinSynapse-dark
@@ -105,7 +105,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ClinSynapse&description_lines_count=2&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
           path: profile/pin-ClinSynapse-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-ShapeRAGen
@@ -114,7 +114,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ShapeRAGen&description_lines_count=2&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
           path: profile/pin-ShapeRAGen.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-ShapeRAGen-dark
@@ -123,7 +123,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=ShapeRAGen&description_lines_count=2&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
           path: profile/pin-ShapeRAGen-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-DiffuKnee
@@ -132,7 +132,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=DiffuKnee&description_lines_count=2&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true
           path: profile/pin-DiffuKnee.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Generate pin-DiffuKnee-dark
@@ -141,7 +141,7 @@ jobs:
           card: pin
           options: username=${{ github.repository_owner }}&repo=DiffuKnee&description_lines_count=2&hide_border=true&theme=github_dark&bg_color=0d1117&disable_animations=true
           path: profile/pin-DiffuKnee-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
       - name: Commit cards
