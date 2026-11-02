@@ -84,46 +84,31 @@ achievements:
   <tr>
     <td>
       <a href="https://github.com/meanderinghuman/storeops-copilot">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=storeops-copilot&theme=github_dark&hide_border=true&bg_color=0d1117&disable_animations=true&description_lines_count=2" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=storeops-copilot&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true&description_lines_count=2" alt="StoreOps Copilot" />
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-storeops-copilot-dark.svg" /><img src="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-storeops-copilot.svg" alt="storeops-copilot" /></picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/meanderinghuman/ddp-scaling-anatomy">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ddp-scaling-anatomy&theme=github_dark&hide_border=true&bg_color=0d1117&disable_animations=true&description_lines_count=2" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ddp-scaling-anatomy&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true&description_lines_count=2" alt="DDP Scaling Anatomy" />
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-ddp-scaling-anatomy-dark.svg" /><img src="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-ddp-scaling-anatomy.svg" alt="ddp-scaling-anatomy" /></picture>
       </a>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/meanderinghuman/ClinSynapse">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ClinSynapse&theme=github_dark&hide_border=true&bg_color=0d1117&disable_animations=true&description_lines_count=2" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ClinSynapse&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true&description_lines_count=2" alt="ClinSynapse" />
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-ClinSynapse-dark.svg" /><img src="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-ClinSynapse.svg" alt="ClinSynapse" /></picture>
       </a>
     </td>
     <td>
       <a href="https://github.com/meanderinghuman/ShapeRAGen">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ShapeRAGen&theme=github_dark&hide_border=true&bg_color=0d1117&disable_animations=true&description_lines_count=2" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=ShapeRAGen&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true&description_lines_count=2" alt="ShapeRAGen" />
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-ShapeRAGen-dark.svg" /><img src="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-ShapeRAGen.svg" alt="ShapeRAGen" /></picture>
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <a href="https://github.com/meanderinghuman/DiffuKnee">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=DiffuKnee&theme=github_dark&hide_border=true&bg_color=0d1117&disable_animations=true&description_lines_count=2" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=meanderinghuman&repo=DiffuKnee&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4&disable_animations=true&description_lines_count=2" alt="DiffuKnee" />
-        </picture>
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-DiffuKnee-dark.svg" /><img src="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/pin-DiffuKnee.svg" alt="DiffuKnee" /></picture>
       </a>
     </td>
   </tr>
@@ -138,16 +123,10 @@ achievements:
 <table>
   <tr>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=meanderinghuman&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues,contribs&disable_animations=true&hide_border=true&theme=github_dark&bg_color=0d1117" />
-        <img height="150" src="https://github-readme-stats.vercel.app/api?username=meanderinghuman&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&hide=issues,contribs&disable_animations=true&hide_border=true&title_color=1a5fb4&icon_color=1a5fb4" alt="GitHub stats" />
-      </picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/stats-dark.svg" /><img height="150" src="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/stats.svg" alt="GitHub stats" /></picture>
     </td>
     <td>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=meanderinghuman&layout=compact&langs_count=6&disable_animations=true&hide_border=true&theme=github_dark&bg_color=0d1117" />
-        <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meanderinghuman&layout=compact&langs_count=6&disable_animations=true&hide_border=true&title_color=1a5fb4" alt="Top languages" />
-      </picture>
+      <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/top-langs-dark.svg" /><img height="150" src="https://raw.githubusercontent.com/meanderinghuman/meanderinghuman/main/profile/top-langs.svg" alt="Top languages" /></picture>
     </td>
   </tr>
 </table>
